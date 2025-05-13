@@ -9,12 +9,7 @@ const app = express();
 app.use(cors());
 
 const PORT = process.env.PORT || 5001;
-/*
-app.get("/", (req, res) => {
-  res.send("Backend is working!");
-});
 
-*/
 app.get("/api", (req, res) => {
   res.send("hello");
 })
