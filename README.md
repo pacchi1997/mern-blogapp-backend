@@ -1,4 +1,4 @@
 # mern-blogapp-backend
 
-ADD MangoDB API
+ADD MangoDB API -- config/DB.js
 
